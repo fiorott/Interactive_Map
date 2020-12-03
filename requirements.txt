@@ -1,0 +1,7 @@
+ipyleaflet
+matplotlib
+geopandas
+shapely
+fiona
+inline
+descartes
